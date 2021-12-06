@@ -1,3 +1,7 @@
+You can view the app here: https://countmeee.netlify.app/
+
+The App is Responsive.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
